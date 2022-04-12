@@ -1,0 +1,9 @@
+{
+	"name": "ADFLearnData",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "046dbee0-40c5-49c5-a210-a0b376c55c68",
+		"tenantId": "b6b5134f-a8b0-41ba-ad28-defb68c042a4"
+	}
+}
